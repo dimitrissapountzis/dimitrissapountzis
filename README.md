@@ -32,3 +32,11 @@ I’m Dimitris, a junior designer and web developer from Greece. I help business
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+
+## Let's Connect
+
+I'm open to discussing new projects, creative ideas, or potential collaborations.
+
+- Email: [contact@dimitrissapountzis.com](mailto:contact@dimitrissapountzis.com)
+- LinkedIn: [linkedin.dimitrissapountzis.com](https://linkedin.dimitrissapountzis.com)
+- Portfolio: [www.dimitrissapountzis.com](https://www.dimitrissapountzis.com)
